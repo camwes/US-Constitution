@@ -1,4 +1,6 @@
-US-Constitution
+The Constitution of the United States
 ===============
+![constitution](lib/img/us-constitution.jpg)
 
-The Constitution of the United States of America
+#### Preamble
+**We the People** of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
